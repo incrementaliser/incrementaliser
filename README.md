@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an NLP researcher and engineer (PhD), interested in working on cognitively plausible models of dialogue processing (mechnistic interpretabilityfor incrementality, voice AI, smol models, and conversational AI evals)<br>
+🔭 I’m an NLP researcher and engineer (PhD), interested in working on cognitively plausible models of dialogue processing (mechanistic interpretability for incrementality, Voice/Conversational AI evals, smol models for efficient Edge AI inference, neuro-symbolic learning for incremental semantic parsing)<br>
 
 # 💻 Tech Stack:
 - Langauges: Python, Java
