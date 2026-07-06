@@ -1,9 +1,6 @@
 # 💫 About Me:
 🔭 I’m an NLP researcher and engineer (PhD), interested in working on cognitively plausible models of dialogue processing (mechnistic interpretabilityfor incrementality, voice AI, smol models, and conversational AI evals)<br>
 
-If you are interested in supporting my work, please consider [buying me a coffee](https://buymeacoffee.com/incrementaliser)!
-
-
 # 💻 Tech Stack:
 - Langauges: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - LLM / NLP: ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=white)
@@ -13,6 +10,8 @@ If you are interested in supporting my work, please consider [buying me a coffee
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/incrementaliser) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@incrementaliser) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/incrementaliser) 
+
+If you are interested in supporting my work, please consider [buying me a coffee](https://buymeacoffee.com/incrementaliser)!
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
