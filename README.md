@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an NLP researcher and engineer (PhD), currently working on voice AI, smol models, and conversational AI evals<br>
+🔭 I’m an NLP researcher and engineer (PhD), interested in working on cognitively plausible models of dialogue processing (mechnistic interpretabilityfor incrementality, voice AI, smol models, and conversational AI evals)<br>
 
 If you are interested in supporting my work, please consider [buying me a coffee](https://buymeacoffee.com/incrementaliser)!
 
